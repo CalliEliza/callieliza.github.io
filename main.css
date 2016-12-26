@@ -1,0 +1,108 @@
+/***
+Color Scheme:
+creme: #f0e8da;
+pastel pink: #f2d3de;
+light pink: #e8b5c4;
+dark pink: #c98392;
+dark teal: #83b5b1;
+light teal: #b2d9cf;
+***/
+
+/*body & general style*/
+body {
+    background-color: #f9f9f9;
+}
+h1,h2,h3,h4,h5,h6,p {
+    font-family: "Nixie One", cursive;
+}
+
+.head {
+    background-color: #c98392;
+    margin: 0 auto;
+    padding: 1em;
+    text-align: center;
+}
+
+/* Game Area*/
+#gameArea {
+    margin: 0 auto;
+    padding-top: 2em;
+    padding-left: 5em;
+    height: 20em;
+    width: 20em;
+    color: #83b5b1;
+}
+#Playerch {
+    margin: 0 auto;
+    padding-top: 1em;
+    padding-left: 1em;
+    color: #83b5b1;
+}
+#ComputerCh {
+    margin: 0 auto;
+    padding-top: 1em;
+    padding-left: 1em;
+    color: #83b5b1;
+}
+
+/*button styles*/
+button {
+    margin: 1em auto;
+    padding: 1em 2em;
+    background-color: #b2d9cf;
+    font-family: "Nixie One", cursive;
+    border: 2px solid #83b5b1;
+    float: right;
+}
+
+button:hover {
+    padding: 1em 2em;
+    background-color: #83b5b1;
+    font-family: "Nixie One", cursive;
+    border: 2px solid #b2d9cf;
+}
+
+/*option styles*/
+.options input {
+    display: block;
+    margin: 1em auto;
+    padding: 1em 2em;
+    background-color: #c98392;
+    font-family: "Nixie One", cursive;
+    border: none;
+    color: #222;
+    float: left;
+}
+
+.options input:hover {
+    display: block;
+    margin: 1em auto;
+    padding: 1em 2em;
+    background-color: #e8b5c4;
+    font-family: "Nixie One", cursive;
+    border: none;
+    color: #222;
+    float: left;
+}
+
+.options input[value='scissors'] {
+    display: block;
+    margin: 1em auto;
+    padding: 1em;
+    background-color: #c98392;
+    font-family: "Nixie One", cursive;
+    border: none;
+    color: #222;
+    float: left;
+}
+
+.options input[value='scissors']:hover {
+    display: block;
+    margin: 1em auto;
+    padding: 1em;
+    background-color: #e8b5c4;
+    font-family: "Nixie One", cursive;
+    border: none;
+    color: #222;
+    float: left;
+}
