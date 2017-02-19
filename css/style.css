@@ -592,6 +592,20 @@ border: 2px solid #fff;
 	color:#dd4b39;
 }
 
+.complSpec h5 {
+	text-decoration: underline;
+}
+
+.complSpec a {
+	text-decoration: none;
+	color: #3E662F;
+}
+
+.complSpec a:hover {
+	text-decoration: none;
+	color: #71343C;
+}
+
 /* Talk Business
 ---------------------------------*/
 .business-talking{
