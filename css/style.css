@@ -606,6 +606,10 @@ border: 2px solid #fff;
 	color: #71343C;
 }
 
+.complSpec li {
+	list-style: none;
+}
+
 /* Talk Business
 ---------------------------------*/
 .business-talking{
