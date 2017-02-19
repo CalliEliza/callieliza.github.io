@@ -212,6 +212,10 @@ color: #fff;
 	padding:0 32px;
 }
 
+.small-logo img {
+	border-radius: 50%;
+}
+
 .main-section{
 	padding:90px 0 110px;
 }
@@ -401,9 +405,9 @@ img {
 /* Clients
 ---------------------------------*/
 .client-part{
-	background:url(../img/section-bg1.jpg) center center no-repeat;
-	background-size:cover;
-	padding:55px 0;
+	background:url(../img/hdrBckgrnd.png) left top repeat;
+
+	padding:50px 0;
 	text-align:center;
 }
 .client-part-haead{
