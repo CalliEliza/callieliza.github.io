@@ -2,8 +2,7 @@
 
 $name = $_POST['name'];
 $visiter_email = $_POST['email'];
-$date_needed = $_POST['date'];
-$time_needed = $_POST['time'];
+$subject = $_POST['subject'];
 $message = $_POST['message'];
 
 
@@ -39,6 +38,10 @@ function IsInjected($str)
     {
     return false;
   }
+}
+if (IsInjected($visiter_email) {
+	echo "Bad email!";
+	exit;
 }
 
 ?>
