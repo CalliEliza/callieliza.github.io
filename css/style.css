@@ -319,6 +319,16 @@ color: #fff;
 	padding-right: .5em;
 }
 
+.fcc_link {
+	color: #7cc576;
+}
+
+.fcc_link:hover {
+	color: #2B8022;
+	text-decoration: none;
+	cursor: pointer;
+}
+
 /* Portfolio
 ---------------------------------*/
 .Portfolio-nav{
