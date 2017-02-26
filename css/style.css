@@ -97,7 +97,7 @@ p{
 
 .header{
 	text-align:center;
-	background:url(../img/hdrBckgrnd.png) left top repeat;
+	background:url(../img/10.jpg) left top repeat;
 	padding:280px 0;
 }
 .logo{
@@ -284,13 +284,13 @@ color: #fff;
 }
 .featured-box-col2{ overflow:hidden;}
 .featured-box.magic{
-	background:url(../img/magic.png) left top no-repeat;
+	background:url(../img/coursera-512-black.png) left top no-repeat;
 }
 .featured-box.packaged{
-	background:url(../img/packaged.png) left top no-repeat;
+	background:url(../img/coursera-512-black.png) left top no-repeat;
 }
 .featured-box.seo{
-	background:url(../img/seo.png) left top no-repeat;
+	background:url(../img/coursera-512-black.png) left top no-repeat;
 }
 .Learn-More{
 	display:inline-block;
@@ -408,7 +408,7 @@ img {
 /* Clients
 ---------------------------------*/
 .client-part{
-	background:url(../img/hdrBckgrnd.png) left top repeat;
+	background:url(../img/10.jpg) left top repeat;
 
 	padding:50px 0;
 	text-align:center;
