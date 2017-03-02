@@ -415,6 +415,11 @@ img {
 	padding-bottom:60px;
 }
 
+/* github calendar styles */
+.calendar {
+	background-color: #eaedc3;
+}
+
 /* Clients
 ---------------------------------*/
 .client-part{
