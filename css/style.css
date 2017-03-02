@@ -145,7 +145,7 @@ color: #fff;
 
 .link{
 	padding:15px 35px;
-	background:#7cc576;
+	background: #7cc576;
 	color:#fff !important;
 	font-size:16px;
 	font-weight:400;
@@ -417,7 +417,8 @@ img {
 
 /* github calendar styles */
 .calendar {
-	background-color: #eaedc3;
+	background-color: #367B76;
+	color: #eaedc3;
 }
 
 /* Clients
