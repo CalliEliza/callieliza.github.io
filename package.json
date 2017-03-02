@@ -1,0 +1,22 @@
+{
+  "name": "softwaredev",
+  "version": "1.0.0",
+  "description": "In the progress of updating and redoing my portfolio website.  It is a work in progress, but you can view my current portfolio website at www.calliedesigns.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalliEliza/callieliza.github.io.git"
+  },
+  "author": "Callie Brooks <calidesigns42@gmail.com> (calliedesigns.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalliEliza/callieliza.github.io/issues"
+  },
+  "homepage": "https://github.com/CalliEliza/callieliza.github.io#readme",
+  "dependencies": {
+    "github-calendar": "^1.1.10"
+  }
+}
