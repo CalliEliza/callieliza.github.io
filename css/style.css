@@ -417,8 +417,9 @@ img {
 
 /* github calendar styles */
 .calendar {
-	background-color: #367B76;
+	background-color: #599490;
 	color: #eaedc3;
+	opacity: .95;
 }
 
 /* Clients
