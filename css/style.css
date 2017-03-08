@@ -97,9 +97,11 @@ p{
 
 .header{
 	text-align:center;
-	background:url(../img/10.jpg) left top repeat;
-	padding:280px 0;
+	background:url(../img/annie-spratt-210713.jpg) left top repeat;
+	padding-top: 2em;
 }
+
+
 .logo{
 	width:130px;
 	margin:0 auto 35px;
