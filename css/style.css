@@ -417,7 +417,7 @@ img {
 
 /* github calendar styles */
 .calendar {
-	background-color: #599490;
+	background-color: #4D4E4C; /*#648560;*/
 	color: #eaedc3;
 	opacity: .95;
 }
